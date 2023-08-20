@@ -1,0 +1,902 @@
+[
+  {
+    "symbol": "SDCI",
+    "name": "USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund",
+    "price": "18.18",
+    "change": "+0.21",
+    "percentChange": "+1.18%",
+    "volume": "645",
+    "range": ""
+  },
+  {
+    "symbol": "DWAS",
+    "name": "Invesco DWA SmallCap Momentum ETF",
+    "price": "76.93",
+    "change": "+0.87",
+    "percentChange": "+1.14%",
+    "volume": "21,443",
+    "range": ""
+  },
+  {
+    "symbol": "VDE",
+    "name": "Vanguard Energy Index Fund",
+    "price": "124.28",
+    "change": "+1.27",
+    "percentChange": "+1.03%",
+    "volume": "376,086",
+    "range": ""
+  },
+  {
+    "symbol": "XLE",
+    "name": "Energy Select Sector SPDR Fund",
+    "price": "88.81",
+    "change": "+0.87",
+    "percentChange": "+0.99%",
+    "volume": "17.581M",
+    "range": ""
+  },
+  {
+    "symbol": "XSMO",
+    "name": "Invesco S&P SmallCap Momentum ETF",
+    "price": "49.01",
+    "change": "+0.47",
+    "percentChange": "+0.97%",
+    "volume": "5,243",
+    "range": ""
+  },
+  {
+    "symbol": "XAR",
+    "name": "SPDR S&P Aerospace & Defense ETF",
+    "price": "119.35",
+    "change": "+1.14",
+    "percentChange": "+0.96%",
+    "volume": "56,381",
+    "range": ""
+  },
+  {
+    "symbol": "FTXN",
+    "name": "First Trust Nasdaq Oil & Gas ETF",
+    "price": "29.64",
+    "change": "+0.28",
+    "percentChange": "+0.94%",
+    "volume": "16,522",
+    "range": ""
+  },
+  {
+    "symbol": "NFTY",
+    "name": "First Trust India NIFTY 50 Equal Weight ETF",
+    "price": "47.14",
+    "change": "+0.44",
+    "percentChange": "+0.94%",
+    "volume": "2,652",
+    "range": ""
+  },
+  {
+    "symbol": "FENY",
+    "name": "Fidelity MSCI Energy Index ETF",
+    "price": "24.40",
+    "change": "+0.22",
+    "percentChange": "+0.91%",
+    "volume": "645,947",
+    "range": ""
+  },
+  {
+    "symbol": "FILL",
+    "name": "iShares MSCI Global Energy Producers ETF",
+    "price": "24.76",
+    "change": "+0.22",
+    "percentChange": "+0.90%",
+    "volume": "3,934",
+    "range": ""
+  },
+  {
+    "symbol": "PSCD",
+    "name": "Invesco S&P SmallCap Consumer Discretionary ETF",
+    "price": "91.13",
+    "change": "+0.80",
+    "percentChange": "+0.89%",
+    "volume": "241",
+    "range": ""
+  },
+  {
+    "symbol": "PTH",
+    "name": "Invesco DWA Healthcare Momentum ETF",
+    "price": "35.46",
+    "change": "+0.31",
+    "percentChange": "+0.88%",
+    "volume": "5,142",
+    "range": ""
+  },
+  {
+    "symbol": "PXE",
+    "name": "Invesco Dynamic Energy Exploration & Production ETF",
+    "price": "32.33",
+    "change": "+0.28",
+    "percentChange": "+0.87%",
+    "volume": "43,747",
+    "range": ""
+  },
+  {
+    "symbol": "IYE",
+    "name": "iShares U.S. Energy ETF",
+    "price": "46.71",
+    "change": "+0.39",
+    "percentChange": "+0.84%",
+    "volume": "357,874",
+    "range": ""
+  },
+  {
+    "symbol": "PDBC",
+    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+    "price": "14.50",
+    "change": "+0.12",
+    "percentChange": "+0.83%",
+    "volume": "1.533M",
+    "range": ""
+  },
+  {
+    "symbol": "PSI",
+    "name": "Invesco Dynamic Semiconductors ETF",
+    "price": "43.19",
+    "change": "+0.34",
+    "percentChange": "+0.79%",
+    "volume": "32,556",
+    "range": ""
+  },
+  {
+    "symbol": "PSCT",
+    "name": "Invesco S&P SmallCap Information Technology ETF",
+    "price": "44.78",
+    "change": "+0.35",
+    "percentChange": "+0.79%",
+    "volume": "7,607",
+    "range": ""
+  },
+  {
+    "symbol": "FXG",
+    "name": "First Trust Consumer Staples AlphaDEX Fund",
+    "price": "63.21",
+    "change": "+0.49",
+    "percentChange": "+0.78%",
+    "volume": "45,527",
+    "range": ""
+  },
+  {
+    "symbol": "BIZD",
+    "name": "VanEck BDC Income ETF",
+    "price": "15.53",
+    "change": "+0.12",
+    "percentChange": "+0.78%",
+    "volume": "874,907",
+    "range": ""
+  },
+  {
+    "symbol": "CALF",
+    "name": "Pacer US Small Cap Cash Cows 100 ETF",
+    "price": "42.23",
+    "change": "+0.31",
+    "percentChange": "+0.74%",
+    "volume": "628,220",
+    "range": ""
+  },
+  {
+    "symbol": "AIRR",
+    "name": "First Trust RBA American Industrial RenaissanceTM ETF",
+    "price": "53.21",
+    "change": "+0.39",
+    "percentChange": "+0.73%",
+    "volume": "74,907",
+    "range": ""
+  },
+  {
+    "symbol": "PSCC",
+    "name": "Invesco S&P SmallCap Consumer Staples ETF",
+    "price": "35.98",
+    "change": "+0.26",
+    "percentChange": "+0.73%",
+    "volume": "20,199",
+    "range": ""
+  },
+  {
+    "symbol": "QMOM",
+    "name": "Alpha Architect U.S. Quantitative Momentum ETF",
+    "price": "44.23",
+    "change": "+0.32",
+    "percentChange": "+0.73%",
+    "volume": "5,425",
+    "range": ""
+  },
+  {
+    "symbol": "IHF",
+    "name": "iShares U.S. Healthcare Providers ETF",
+    "price": "252.25",
+    "change": "+1.82",
+    "percentChange": "+0.73%",
+    "volume": "17,071",
+    "range": ""
+  },
+  {
+    "symbol": "VPC",
+    "name": "Virtus Private Credit ETF",
+    "price": "21.66",
+    "change": "+0.15",
+    "percentChange": "+0.72%",
+    "volume": "2,434",
+    "range": ""
+  },
+  {
+    "symbol": "DBC",
+    "name": "Invesco DB Commodity Index Tracking Fund",
+    "price": "24.15",
+    "change": "+0.17",
+    "percentChange": "+0.71%",
+    "volume": "601,829",
+    "range": ""
+  },
+  {
+    "symbol": "PRN",
+    "name": "Invesco DWA Industrials Momentum ETF",
+    "price": "103.80",
+    "change": "+0.73",
+    "percentChange": "+0.71%",
+    "volume": "3,183",
+    "range": ""
+  },
+  {
+    "symbol": "RWJ",
+    "name": "Invesco S&P SmallCap 600 Revenue ETF",
+    "price": "38.49",
+    "change": "+0.27",
+    "percentChange": "+0.71%",
+    "volume": "147,000",
+    "range": ""
+  },
+  {
+    "symbol": "FTXL",
+    "name": "First Trust Nasdaq Semiconductor ETF",
+    "price": "67.63",
+    "change": "+0.47",
+    "percentChange": "+0.70%",
+    "volume": "100,515",
+    "range": ""
+  },
+  {
+    "symbol": "DWMC",
+    "name": "AdvisorShares Dorsey Wright Micro-Cap ETF",
+    "price": "32.58",
+    "change": "+0.22",
+    "percentChange": "+0.68%",
+    "volume": "3,923",
+    "range": ""
+  },
+  {
+    "symbol": "BAB",
+    "name": "Invesco Taxable Municipal Bond ETF",
+    "price": "25.78",
+    "change": "+0.17",
+    "percentChange": "+0.66%",
+    "volume": "263,627",
+    "range": ""
+  },
+  {
+    "symbol": "IEO",
+    "name": "iShares U.S. Oil & Gas Exploration & Production ETF",
+    "price": "97.49",
+    "change": "+0.64",
+    "percentChange": "+0.66%",
+    "volume": "142,730",
+    "range": ""
+  },
+  {
+    "symbol": "MUST",
+    "name": "Columbia Multi-Sector Municipal Income ETF",
+    "price": "20.24",
+    "change": "+0.13",
+    "percentChange": "+0.65%",
+    "volume": "37,645",
+    "range": ""
+  },
+  {
+    "symbol": "RWK",
+    "name": "Invesco S&P MidCap 400 Revenue ETF",
+    "price": "96.61",
+    "change": "+0.59",
+    "percentChange": "+0.61%",
+    "volume": "13,883",
+    "range": ""
+  },
+  {
+    "symbol": "CNRG",
+    "name": "SPDR Kensho Clean Power ETF",
+    "price": "73.99",
+    "change": "+0.45",
+    "percentChange": "+0.61%",
+    "volume": "18,797",
+    "range": ""
+  },
+  {
+    "symbol": "SPGP",
+    "name": "Invesco S&P 500 GARP ETF",
+    "price": "92.76",
+    "change": "+0.55",
+    "percentChange": "+0.60%",
+    "volume": "302,866",
+    "range": ""
+  },
+  {
+    "symbol": "EVX",
+    "name": "VanEck Environmental Services ETF",
+    "price": "156.57",
+    "change": "+0.92",
+    "percentChange": "+0.59%",
+    "volume": "631",
+    "range": ""
+  },
+  {
+    "symbol": "MFLX",
+    "name": "First Trust Flexible Municipal High Income ETF",
+    "price": "16.33",
+    "change": "+0.09",
+    "percentChange": "+0.58%",
+    "volume": "3",
+    "range": ""
+  },
+  {
+    "symbol": "SLYG",
+    "name": "SPDR S&P 600 Small Cap Growth ETF",
+    "price": "75.96",
+    "change": "+0.44",
+    "percentChange": "+0.58%",
+    "volume": "82,950",
+    "range": ""
+  },
+  {
+    "symbol": "VFMO",
+    "name": "Vanguard U.S. Momentum Factor ETF",
+    "price": "115.94",
+    "change": "+0.67",
+    "percentChange": "+0.58%",
+    "volume": "10,401",
+    "range": ""
+  },
+  {
+    "symbol": "XSVM",
+    "name": "Invesco S&P SmallCap Value with Momentum ETF",
+    "price": "48.61",
+    "change": "+0.28",
+    "percentChange": "+0.58%",
+    "volume": "49,441",
+    "range": ""
+  },
+  {
+    "symbol": "SYLD",
+    "name": "Cambria Shareholder Yield ETF",
+    "price": "62.59",
+    "change": "+0.36",
+    "percentChange": "+0.58%",
+    "volume": "244,420",
+    "range": ""
+  },
+  {
+    "symbol": "PTF",
+    "name": "Invesco DWA Technology Momentum ETF",
+    "price": "44.85",
+    "change": "+0.25",
+    "percentChange": "+0.56%",
+    "volume": "39,037",
+    "range": ""
+  },
+  {
+    "symbol": "FNDA",
+    "name": "Schwab Fundamental U.S. Small Company Index ETF",
+    "price": "50.32",
+    "change": "+0.28",
+    "percentChange": "+0.56%",
+    "volume": "202,003",
+    "range": ""
+  },
+  {
+    "symbol": "IFRA",
+    "name": "iShares U.S. Infrastructure ETF",
+    "price": "38.52",
+    "change": "+0.21",
+    "percentChange": "+0.55%",
+    "volume": "195,213",
+    "range": ""
+  },
+  {
+    "symbol": "FYX",
+    "name": "First Trust Small Cap Core AlphaDEX Fund",
+    "price": "83.88",
+    "change": "+0.46",
+    "percentChange": "+0.55%",
+    "volume": "25,466",
+    "range": ""
+  },
+  {
+    "symbol": "VIOO",
+    "name": "Vanguard S&P Small-Cap 600 Index Fund",
+    "price": "90.96",
+    "change": "+0.49",
+    "percentChange": "+0.54%",
+    "volume": "78,383",
+    "range": ""
+  },
+  {
+    "symbol": "SOXX",
+    "name": "KRW/HKD",
+    "price": "480.69",
+    "change": "+2.57",
+    "percentChange": "+0.54%",
+    "volume": "769,843",
+    "range": ""
+  },
+  {
+    "symbol": "XMMO",
+    "name": "Invesco S&P MidCap Momentum ETF",
+    "price": "80.82",
+    "change": "+0.43",
+    "percentChange": "+0.53%",
+    "volume": "20,592",
+    "range": ""
+  },
+  {
+    "symbol": "BCD",
+    "name": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF",
+    "price": "33.01",
+    "change": "+0.17",
+    "percentChange": "+0.53%",
+    "volume": "10,229",
+    "range": ""
+  },
+  {
+    "symbol": "XLU",
+    "name": "Utilities Select Sector SPDR Fund",
+    "price": "63.49",
+    "change": "+0.33",
+    "percentChange": "+0.52%",
+    "volume": "12.837M",
+    "range": ""
+  },
+  {
+    "symbol": "ITB",
+    "name": "iShares U.S. Home Construction ETF",
+    "price": "83.41",
+    "change": "+0.43",
+    "percentChange": "+0.52%",
+    "volume": "5.067M",
+    "range": ""
+  },
+  {
+    "symbol": "TPYP",
+    "name": "Tortoise North American Pipeline Fund",
+    "price": "25.24",
+    "change": "+0.13",
+    "percentChange": "+0.52%",
+    "volume": "89,891",
+    "range": ""
+  },
+  {
+    "symbol": "FUTY",
+    "name": "Fidelity MSCI Utilities Index ETF",
+    "price": "40.86",
+    "change": "+0.21",
+    "percentChange": "+0.52%",
+    "volume": "167,478",
+    "range": ""
+  },
+  {
+    "symbol": "UTES",
+    "name": "Virtus Reaves Utilities ETF",
+    "price": "44.41",
+    "change": "+0.23",
+    "percentChange": "+0.52%",
+    "volume": "975",
+    "range": ""
+  },
+  {
+    "symbol": "EMLP",
+    "name": "First Trust North American Energy Infrastructure Fund",
+    "price": "27.31",
+    "change": "+0.14",
+    "percentChange": "+0.52%",
+    "volume": "327,171",
+    "range": ""
+  },
+  {
+    "symbol": "IJR",
+    "name": "iShares Core S&P Small-Cap ETF",
+    "price": "98.71",
+    "change": "+0.50",
+    "percentChange": "+0.51%",
+    "volume": "3.531M",
+    "range": ""
+  },
+  {
+    "symbol": "JPSE",
+    "name": "JPMorgan Diversified Return U.S. Small Cap Equity ETF",
+    "price": "40.79",
+    "change": "+0.20",
+    "percentChange": "+0.50%",
+    "volume": "20,481",
+    "range": ""
+  },
+  {
+    "symbol": "NUSC",
+    "name": "Nuveen ESG Small-Cap ETF",
+    "price": "36.17",
+    "change": "+0.18",
+    "percentChange": "+0.50%",
+    "volume": "104,632",
+    "range": ""
+  },
+  {
+    "symbol": "FLLA",
+    "name": "Franklin FTSE Latin America ETF",
+    "price": "22.17",
+    "change": "+0.11",
+    "percentChange": "+0.50%",
+    "volume": "7,262",
+    "range": ""
+  },
+  {
+    "symbol": "FFIU",
+    "name": "Fieldstone UVA Unconstrained Medium-Term Fixed Income ETF",
+    "price": "21.23",
+    "change": "+0.10",
+    "percentChange": "+0.50%",
+    "volume": "1,907",
+    "range": ""
+  },
+  {
+    "symbol": "ATMP",
+    "name": "Barclays ETN+ Select MLP ETN",
+    "price": "21.00",
+    "change": "+0.10",
+    "percentChange": "+0.49%",
+    "volume": "5,168",
+    "range": ""
+  },
+  {
+    "symbol": "RFV",
+    "name": "Invesco S&P MidCap 400 Pure Value ETF",
+    "price": "102.70",
+    "change": "+0.50",
+    "percentChange": "+0.49%",
+    "volume": "6,743",
+    "range": ""
+  },
+  {
+    "symbol": "GSSC",
+    "name": "Goldman Sachs ActiveBeta U.S. Small Cap Equity ETF",
+    "price": "57.83",
+    "change": "+0.28",
+    "percentChange": "+0.49%",
+    "volume": "11,963",
+    "range": ""
+  },
+  {
+    "symbol": "EWW",
+    "name": "iShares MSCI Mexico ETF",
+    "price": "61.85",
+    "change": "+0.30",
+    "percentChange": "+0.49%",
+    "volume": "1.876M",
+    "range": ""
+  },
+  {
+    "symbol": "VB",
+    "name": "Vanguard Small Cap Index Fund",
+    "price": "195.58",
+    "change": "+0.94",
+    "percentChange": "+0.48%",
+    "volume": "517,140",
+    "range": ""
+  },
+  {
+    "symbol": "VPU",
+    "name": "Vanguard Utilities Index Fund",
+    "price": "137.36",
+    "change": "+0.65",
+    "percentChange": "+0.48%",
+    "volume": "165,155",
+    "range": ""
+  },
+  {
+    "symbol": "SPMO",
+    "name": "Invesco S&P 500 Momentum ETF",
+    "price": "58.05",
+    "change": "+0.27",
+    "percentChange": "+0.46%",
+    "volume": "14,687",
+    "range": ""
+  },
+  {
+    "symbol": "ENFR",
+    "name": "Alerian Energy Infrastructure ETF",
+    "price": "22.15",
+    "change": "+0.10",
+    "percentChange": "+0.46%",
+    "volume": "26,721",
+    "range": ""
+  },
+  {
+    "symbol": "FXL",
+    "name": "First Trust Technology AlphaDEX Fund",
+    "price": "109.65",
+    "change": "+0.50",
+    "percentChange": "+0.46%",
+    "volume": "21,689",
+    "range": ""
+  },
+  {
+    "symbol": "COWZ",
+    "name": "Pacer US Cash Cows 100 ETF",
+    "price": "50.55",
+    "change": "+0.23",
+    "percentChange": "+0.46%",
+    "volume": "1.793M",
+    "range": ""
+  },
+  {
+    "symbol": "EZM",
+    "name": "WisdomTree U.S. MidCap Earnings Fund",
+    "price": "52.58",
+    "change": "+0.24",
+    "percentChange": "+0.46%",
+    "volume": "16,197",
+    "range": ""
+  },
+  {
+    "symbol": "SMLF",
+    "name": "iShares MSCI USA Small-Cap Multifactor ETF",
+    "price": "53.17",
+    "change": "+0.24",
+    "percentChange": "+0.45%",
+    "volume": "20,014",
+    "range": ""
+  },
+  {
+    "symbol": "CSB",
+    "name": "VictoryShares US Small Cap High Div Volatility Wtd ETF",
+    "price": "51.78",
+    "change": "+0.23",
+    "percentChange": "+0.45%",
+    "volume": "20,668",
+    "range": ""
+  },
+  {
+    "symbol": "KBND",
+    "name": "Krane Shares China Credit Index ETF",
+    "price": "30.44",
+    "change": "+0.14",
+    "percentChange": "+0.45%",
+    "volume": "129",
+    "range": ""
+  },
+  {
+    "symbol": "COM",
+    "name": "Direxion Auspice Broad Commodity Strategy ETF",
+    "price": "29.39",
+    "change": "+0.13",
+    "percentChange": "+0.44%",
+    "volume": "26,947",
+    "range": ""
+  },
+  {
+    "symbol": "SMH",
+    "name": "VanEck Semiconductor ETF",
+    "price": "146.13",
+    "change": "+0.62",
+    "percentChange": "+0.43%",
+    "volume": "8.696M",
+    "range": ""
+  },
+  {
+    "symbol": "MLPX",
+    "name": "Global X MLP & Energy Infrastructure ETF",
+    "price": "42.49",
+    "change": "+0.18",
+    "percentChange": "+0.43%",
+    "volume": "46,188",
+    "range": ""
+  },
+  {
+    "symbol": "FSTA",
+    "name": "Fidelity MSCI Consumer Staples Index ETF",
+    "price": "44.91",
+    "change": "+0.19",
+    "percentChange": "+0.42%",
+    "volume": "108,938",
+    "range": ""
+  },
+  {
+    "symbol": "VFMF",
+    "name": "Vanguard U.S. Multifactor ETF",
+    "price": "105.01",
+    "change": "+0.44",
+    "percentChange": "+0.42%",
+    "volume": "2,855",
+    "range": ""
+  },
+  {
+    "symbol": "FLN",
+    "name": "First Trust Latin America AlphaDEX Fund",
+    "price": "18.95",
+    "change": "+0.08",
+    "percentChange": "+0.42%",
+    "volume": "7,343",
+    "range": ""
+  },
+  {
+    "symbol": "IYK",
+    "name": "iShares US Consumer Staples ETF",
+    "price": "196.85",
+    "change": "+0.82",
+    "percentChange": "+0.42%",
+    "volume": "26,291",
+    "range": ""
+  },
+  {
+    "symbol": "SPSM",
+    "name": "SPDR Portfolio S&P 600 Small Cap ETF",
+    "price": "38.46",
+    "change": "+0.16",
+    "percentChange": "+0.42%",
+    "volume": "783,336",
+    "range": ""
+  },
+  {
+    "symbol": "IJS",
+    "name": "iShares S&P Small-Cap 600 Value ETF",
+    "price": "94.38",
+    "change": "+0.39",
+    "percentChange": "+0.41%",
+    "volume": "438,359",
+    "range": ""
+  },
+  {
+    "symbol": "PPA",
+    "name": "Invesco Aerospace & Defense ETF",
+    "price": "83.20",
+    "change": "+0.34",
+    "percentChange": "+0.41%",
+    "volume": "77,414",
+    "range": ""
+  },
+  {
+    "symbol": "VAMO",
+    "name": "Cambria Value and Momentum ETF",
+    "price": "26.30",
+    "change": "+0.11",
+    "percentChange": "+0.41%",
+    "volume": "3,693",
+    "range": ""
+  },
+  {
+    "symbol": "PSC",
+    "name": "Principal U.S. Small-Cap Multi-Factor ETF",
+    "price": "41.87",
+    "change": "+0.17",
+    "percentChange": "+0.41%",
+    "volume": "2,078",
+    "range": ""
+  },
+  {
+    "symbol": "CSA",
+    "name": "VictoryShares US Small Cap Volatility Wtd ETF",
+    "price": "61.18",
+    "change": "+0.25",
+    "percentChange": "+0.41%",
+    "volume": "348",
+    "range": ""
+  },
+  {
+    "symbol": "INDS",
+    "name": "Pacer Benchmark Industrial Real Estate SCTR ETF",
+    "price": "37.64",
+    "change": "+0.15",
+    "percentChange": "+0.39%",
+    "volume": "10,693",
+    "range": ""
+  },
+  {
+    "symbol": "OUSM",
+    "name": "ALPS O'Shares U.S. Small-Cap Quality Dividend ETF Shares",
+    "price": "35.96",
+    "change": "+0.14",
+    "percentChange": "+0.39%",
+    "volume": "27,709",
+    "range": ""
+  },
+  {
+    "symbol": "EELV",
+    "name": "Invesco S&P Emerging Markets Low Volatility ETF",
+    "price": "23.35",
+    "change": "+0.09",
+    "percentChange": "+0.39%",
+    "volume": "75,432",
+    "range": ""
+  },
+  {
+    "symbol": "YLD",
+    "name": "Principal Active High Yield ETF",
+    "price": "18.21",
+    "change": "+0.07",
+    "percentChange": "+0.39%",
+    "volume": "122,775",
+    "range": ""
+  },
+  {
+    "symbol": "WTV",
+    "name": "WisdomTree U.S. Value Fund",
+    "price": "63.10",
+    "change": "+0.24",
+    "percentChange": "+0.38%",
+    "volume": "8,463",
+    "range": ""
+  },
+  {
+    "symbol": "SPVM",
+    "name": "Invesco S&P 500 Value with Momentum ETF",
+    "price": "48.47",
+    "change": "+0.18",
+    "percentChange": "+0.38%",
+    "volume": "2,586",
+    "range": ""
+  },
+  {
+    "symbol": "FNX",
+    "name": "First Trust Mid Cap Core AlphaDEX Fund",
+    "price": "95.16",
+    "change": "+0.36",
+    "percentChange": "+0.38%",
+    "volume": "23,802",
+    "range": ""
+  },
+  {
+    "symbol": "FDL",
+    "name": "First Trust Morningstar Dividend Leaders Index Fund",
+    "price": "34.51",
+    "change": "+0.13",
+    "percentChange": "+0.38%",
+    "volume": "446,784",
+    "range": ""
+  },
+  {
+    "symbol": "SMMD",
+    "name": "iShares Russell 2500 ETF",
+    "price": "56.52",
+    "change": "+0.21",
+    "percentChange": "+0.37%",
+    "volume": "20,123",
+    "range": ""
+  },
+  {
+    "symbol": "USAI",
+    "name": "Pacer American Energy Independence ETF",
+    "price": "27.73",
+    "change": "+0.10",
+    "percentChange": "+0.37%",
+    "volume": "835",
+    "range": ""
+  },
+  {
+    "symbol": "IGBH",
+    "name": "iShares Interest Rate Hedged Long-Term Corporate Bond ETF",
+    "price": "23.77",
+    "change": "+0.08",
+    "percentChange": "+0.36%",
+    "volume": "5,636",
+    "range": ""
+  },
+  {
+    "symbol": "PRFZ",
+    "name": "Invesco FTSE RAFI US 1500 Small-Mid ETF",
+    "price": "34.26",
+    "change": "+0.12",
+    "percentChange": "+0.35%",
+    "volume": "110,195",
+    "range": ""
+  }
+]
